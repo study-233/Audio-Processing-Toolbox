@@ -6,20 +6,39 @@
 
 基于 Python 和 PyQt5 的音频处理工具箱，提供直观的图形界面和音频处理功能。
 
-## 效果演示
+## 🎵 效果演示
 - 原始音频
-
-
+- 
 https://github.com/user-attachments/assets/5ec4ab30-fd9a-49c0-9343-76f61eeb88eb
 
-
 - 加速后音频
-  
+
+https://github.com/user-attachments/assets/63fb76d4-26d1-48b1-9584-70618af50e40
+
+
 - 变音后音频
+
+
+
+https://github.com/user-attachments/assets/916caa0a-4011-49fa-a754-4f1743535998
+
+
   
 - 原始音频带噪声
+
+
+
+https://github.com/user-attachments/assets/af327683-b365-43e9-9527-acf765811182
+
+
   
 - 音频带噪声去噪后
+
+
+
+https://github.com/user-attachments/assets/817a303d-c410-430a-b8e0-4e470f7f6d38
+
+
 
 ## ✨ 功能特性
 
