@@ -122,8 +122,8 @@ audio_tools/
 
 ## 📮 联系方式
 
-- 项目主页: [GitHub](https://github.com/study-233/audio_tools)
-- 问题反馈: [Issues](https://github.com/study-233/audio_tools/issues)
+- 项目主页: [GitHub](https://github.com/study-233/Audio-Processing-Toolbox)
+- 问题反馈: [Issues](https://github.com/study-233/Audio-Processing-Toolbox/issues)
 
 ---
 
