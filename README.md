@@ -81,11 +81,6 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ### 运行程序
 
-**Windows用户**（推荐）：
-```bash
-双击运行 run.bat
-```
-
 **所有平台**：
 ```bash
 python main.py
@@ -133,13 +128,6 @@ audio_tools/
     └── tool_panels.py        # 工具面板
 
 ```
-
-## ⚙️ 系统要求
-
-- **Python**: 3.7 或更高版本
-- **操作系统**: Windows / macOS / Linux
-- **内存**: 建议 4GB 以上
-- **处理器**: 双核 2.0GHz 以上
 
 ## 🤝 贡献
 
