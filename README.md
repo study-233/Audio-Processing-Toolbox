@@ -114,7 +114,6 @@ python main.py
 audio_tools/
 ├── main.py                    # 主程序入口
 ├── main_window.py             # 主窗口类
-├── run.bat                    # Windows启动脚本
 ├── requirements.txt           # 依赖包列表
 │
 ├── modules/                   # 功能模块
