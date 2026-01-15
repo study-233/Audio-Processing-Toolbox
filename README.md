@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 基于 Python 和 PyQt5 的音频处理工具箱，提供直观的图形界面和音频处理功能。
+## 图形界面
+<img width="865" height="513" alt="image" src="https://github.com/user-attachments/assets/cdaaac4f-7e81-45e4-883f-b0be996f68bf" />
 
 ## 🎵 效果演示
 - 原始音频
